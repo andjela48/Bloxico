@@ -1,3 +1,0 @@
-andjela.txt
-dir
-README.md
