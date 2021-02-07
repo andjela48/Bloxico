@@ -1,0 +1,1 @@
+Kernel je računarski program koji je samo jezgro operativnog sistema, sa potpunom kontrolom nad svime u sistemu.
